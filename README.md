@@ -1,2 +1,2 @@
 # mini-python
-small python programs
+This are having all the practice python files.
